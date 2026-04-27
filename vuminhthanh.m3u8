@@ -25,6 +25,9 @@ https://1.org.vn/oni2hd/?/index.m3u8
 https://1.org.vn/oni3/?/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://png.pngtree.com/png-vector/20221222/ourmid/pngtree-trendy-geometric-elements-with-upcoming-events-text-png-image_6533184.png", ONi4
 https://d.org.vn/oni2-mbnlife/?/index.m3u8
+
+#EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.googleusercontent.com/ViVpOmqG0sq48UxULaYc8xWsPPKLRv884_yN9UBSvmD5Pa0YJWTEs4PdzxWoKawfoGP6bjWlIg=s120-c-k-c0x00ffffff-no-rj", OuterityPN 1
+https://www.youtube.com/watch?v=RLVIkl1NEvY
 #EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.ggpht.com/ST4tCKpz_3MUJHZXEkzv6GKPviy1IUHw7nq-bdBCVCo72g30vLD3wCZeG1RFsdz-BCE_6KBk=s600-c-k-c0x00ffffff-no-rj-rp-mo", OuterityPN 2
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/nguyenquor/playlist.m3u8
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
