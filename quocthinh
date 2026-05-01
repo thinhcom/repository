@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml"
+#EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.googleusercontent.com/ViVpOmqG0sq48UxULaYc8xWsPPKLRv884_yN9UBSvmD5Pa0YJWTEs4PdzxWoKawfoGP6bjWlIg=s120-c-k-c0x00ffffff-no-rj", OuterityPN 1
+https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/outerity12/playlist.m3u8
+#EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.ggpht.com/ST4tCKpz_3MUJHZXEkzv6GKPviy1IUHw7nq-bdBCVCo72g30vLD3wCZeG1RFsdz-BCE_6KBk=s600-c-k-c0x00ffffff-no-rj-rp-mo", OuterityPN 2
+https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/nguyenquor/playlist.m3u8
 #EXTINF:-1 tvg-id="sgnetwork" group-title="SG Network" group-logo="https://devonlynino.github.io/assets/images/main.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
