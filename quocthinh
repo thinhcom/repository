@@ -9,6 +9,10 @@ https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/nguyenquor/playlist.m
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel (server 1)
 http://livesv2.onnanetwork.xyz/hls/ninochannel/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/lvtt.jpg", LVTT
+https://kubolive.ddns.net:8081/live/lvtt1/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV1_HD.png", ATV HD
+https://hnlive.dramahay.xyz/live/atv/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
 https://1.org.vn/oni1/?/index.m3u8
