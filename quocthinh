@@ -380,6 +380,9 @@ http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/90544
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/2081848173?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="49f197dcf3a3b0fbcac8824831b33eb9",VTV9 (HD 8.5Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/1553461577?profile=pass
+#EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/HCpqatZ.png" tvg-id="e14f8d5318272e23aa152e2ab9a35a20",VTV10(HD 8.5Mbps)
+http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/1401769953?profile=pass
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="cfb64a0dd32faae20859703328e5ee75",WBTV (HD 8Mbps)
 http://hothanhdam:thanhdam1010@tvh.hothanhdam.dsmynas.com/stream/channelid/223000271?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="f707c3db13b115874144aed50dfbaf4b",WBTV (HD 8Mbps)
