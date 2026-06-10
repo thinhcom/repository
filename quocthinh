@@ -1,7 +1,4 @@
-https://vnepg.site/epg.xml
-https://vnepg.site/epgu.xml (Tiêu đề viết hoa)
-https://vnepg.site/epg.xml.gz
-
+#EXTM3U url-tvg="https://vnepg.site/epg.xml
 #EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.googleusercontent.com/ViVpOmqG0sq48UxULaYc8xWsPPKLRv884_yN9UBSvmD5Pa0YJWTEs4PdzxWoKawfoGP6bjWlIg=s120-c-k-c0x00ffffff-no-rj", OuterityPN 1
 https://sgclient.duckdns.org/source/twitch.m3u8?channel=outerity12
 #EXTINF:-1 group-title="Sự Kiện"tvg-logo="https://yt3.ggpht.com/ST4tCKpz_3MUJHZXEkzv6GKPviy1IUHw7nq-bdBCVCo72g30vLD3wCZeG1RFsdz-BCE_6KBk=s600-c-k-c0x00ffffff-no-rj-rp-mo", OuterityPN 2
